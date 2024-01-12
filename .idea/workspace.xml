@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d15b9d6f-2228-4fb1-b6bc-838de6c6a8a0" name="Changes" comment="added a function to calculate days to secs" />
+    <list default="true" id="d15b9d6f-2228-4fb1-b6bc-838de6c6a8a0" name="Changes" comment="added app.py">
+      <change afterPath="$PROJECT_DIR$/input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,19 +28,23 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2ar6PSPtcnkdGDzWKomMEVG6Yjm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.app.executor": "Run",
+    "Python.input.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\olurotimi.ogunyinka.EATNGO-AFRICA\PycharmProjects\PythonProject" />
@@ -106,13 +114,30 @@
       <option name="project" value="LOCAL" />
       <updated>1705089427682</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added app.py">
+      <option name="closed" value="true" />
+      <created>1705090596766</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705090596766</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added app.py">
+      <option name="closed" value="true" />
+      <created>1705090724805</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705090724805</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Python Project" />
     <MESSAGE value="Days to seconds calculation" />
     <MESSAGE value="added a function to calculate days to secs" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a function to calculate days to secs" />
+    <MESSAGE value="added app.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added app.py" />
   </component>
 </project>
