@@ -18,6 +18,6 @@ def days_to_secs():
     else:
         print(f'{days} days_in_seconds is evaluated as {days_in_seconds}')
 
-
+# function without arguments
 days_to_secs()
 days_to_secs()
